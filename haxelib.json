@@ -1,0 +1,12 @@
+{
+  "name": "easing",
+  "url" : "https://github.com/veryevilzed/easinghx/",
+  "license": "MIT",
+  "tags": ["easing"],
+  "description": "Easing tools",
+  "version": "1.0.0",
+  "releasenote": "Initial release, everything is working correctly.",
+  "contributors": ["Veryevilzed"],
+  "dependencies": {
+  }
+}
